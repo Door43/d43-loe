@@ -10,6 +10,10 @@
   * [[loe:obs|Open Bible Stories (loe)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-loe|d43-loe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-loe/archive/master.zip|d43-loe.zip]]
+
 **Recent Changes**
 {{changes>ns = loe}}
 
