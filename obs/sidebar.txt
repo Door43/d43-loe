@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[loe:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>loe:obs:stories}}
+  * [[loe:home|Door43 (loe)]]
 
+**Resources**
+
+  * [[loe:obs|Open Bible Stories (loe)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-loe|d43-loe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-loe/archive/master.zip|d43-loe.zip]]
+
+**Recent Changes**
+{{changes>ns = loe}}
 
 **Latest Status**
 {{page>en:uwadmin:loe:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/loe|Ethnologue data]]
+
+**Resources**
+
+  * [[loe:obs|Open Bible Stories (loe)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:loe:obs:status}}
